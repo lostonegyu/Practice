@@ -5,4 +5,4 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse("i am practicing")
+    return HttpResponse("to do list~~")
